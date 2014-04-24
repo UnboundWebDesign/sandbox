@@ -177,7 +177,7 @@ header span.right-tail {
 header h1 {
   background-color: #7c334f;
   font-size: 2.5em;
-  font-weight: 800;
+  font-weight: normal;
   font-style: normal;
   /*text-transform: uppercase;*/
   color: #ece4d8;
@@ -188,7 +188,7 @@ header h1 {
 
 header h2 {
   background-color: #7c334f;
-  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
+  font: normal italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
   margin-top: -3px;
